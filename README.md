@@ -46,7 +46,9 @@ Outside of work, I enjoy staying up-to-date with the latest technological advanc
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=onirudda-islam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/onirudda-islam">
+  <img src="https://github-profile-trophy.vercel.app/?username=onirudda-islam&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -58,7 +60,9 @@ Outside of work, I enjoy staying up-to-date with the latest technological advanc
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onirudda-islam&hide=html,css&layout=donut&theme=radical&langs_count=8)](https://github.com/onirudda-islam)
+<a href="https://github.com/onirudda-islam">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirudda-islam&hide=html,css&layout=donut&theme=radical&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
