@@ -24,12 +24,19 @@ Outside of work, I enjoy staying up-to-date with the latest technological advanc
 ### 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onirudda-islam&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+<a href="https://github.com/onirudda-islam/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onirudda-islam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/onirudda-islam/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirudda-islam&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
+
+</div>
+
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onirudda-islam&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onirudda-islam&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -47,11 +54,20 @@ Outside of work, I enjoy staying up-to-date with the latest technological advanc
 
 ### 💻 Technology Stack
 
+> **Note:** Top Languages shows language usage from your repositories. It's calculated from code bytes, not skill level.
+
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onirudda-islam&layout=compact&theme=radical&langs_count=12&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onirudda-islam&hide=html,css&layout=donut&theme=radical&langs_count=8)
 
 </div>
+
+#### Language Stats Options
+- **Compact Layout**: `layout=compact`
+- **Donut Chart**: `layout=donut` (current)
+- **Pie Chart**: `layout=pie`
+- **Hide Languages**: `hide=html,css`
+- **Show More**: `langs_count=8`
 
 #### Most Used Technologies (from repositories)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
