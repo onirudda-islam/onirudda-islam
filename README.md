@@ -26,10 +26,10 @@ Outside of work, I enjoy staying up-to-date with the latest technological advanc
 <div align="center">
 
 <a href="https://github.com/onirudda-islam">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onirudda-islam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=onirudda-islam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/onirudda-islam">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirudda-islam&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=onirudda-islam&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
 </div>
@@ -46,9 +46,7 @@ Outside of work, I enjoy staying up-to-date with the latest technological advanc
 
 <div align="center">
   
-<a href="https://github.com/onirudda-islam">
-  <img src="https://github-profile-trophy.vercel.app/?username=onirudda-islam&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</a>
+![GitHub Trophies](https://github-trophies.vercel.app/?username=onirudda-islam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -60,9 +58,7 @@ Outside of work, I enjoy staying up-to-date with the latest technological advanc
 
 <div align="center">
 
-<a href="https://github.com/onirudda-islam">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirudda-islam&hide=html,css&layout=donut&theme=radical&langs_count=8" alt="Top Languages" />
-</a>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=onirudda-islam&hide=html,css&layout=donut&theme=radical&langs_count=8)
 
 </div>
 
