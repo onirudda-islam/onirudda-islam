@@ -82,6 +82,15 @@ all_repos:  🔒 Private (stealth mode)
 
 ### Languages
 
+<!-- Auto-generated from private repos via github.com/onirudda-islam/stats -->
+![Language Distribution](https://raw.githubusercontent.com/onirudda-islam/stats/main/output/languages.svg)
+
+> 📊 Dynamically scanned weekly across all private repositories · [View raw data](https://github.com/onirudda-islam/stats/blob/main/output/languages.json)
+
+<br/>
+
+**Proficiency breakdown:**
+
 | Language | Proficiency | Primary Domain |
 |---|---|---|
 | ![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white) | **Expert** | AI/ML, Backend, Scripting |
