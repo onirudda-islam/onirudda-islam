@@ -80,62 +80,29 @@ all_repos:  🔒 Private (stealth mode)
 
 ## 🛠️ Technical Stack & Proficiency
 
-### Languages
+<!-- ┌─────────────────────────────────────────────────────────────────────────┐ -->
+<!-- │  AUTO-GENERATED — Do not edit manually.                                │ -->
+<!-- │  Source: github.com/onirudda-islam/stats                               │ -->
+<!-- │  Workflow: .github/workflows/update-stats.yml (runs every Sunday)      │ -->
+<!-- │  Script:   scripts/aggregate_languages.py                              │ -->
+<!-- │                                                                         │ -->
+<!-- │  How it works:                                                          │ -->
+<!-- │  1. GitHub API /user/repos  → all repos (public + private)             │ -->
+<!-- │  2. /repos/:owner/:repo/languages → byte counts per language           │ -->
+<!-- │  3. /repos/:owner/:repo/git/trees → file tree for signal detection     │ -->
+<!-- │  4. /repos/:owner/:repo/contents/:path → file content for deep signals │ -->
+<!-- │  5. Aggregates → generates stack.svg → commits to stats repo           │ -->
+<!-- └─────────────────────────────────────────────────────────────────────────┘ -->
 
-<!-- Auto-generated from private repos via github.com/onirudda-islam/stats -->
-![Language Distribution](https://raw.githubusercontent.com/onirudda-islam/stats/main/output/languages.svg)
+<div align="center">
 
-> 📊 Dynamically scanned weekly across all private repositories · [View raw data](https://github.com/onirudda-islam/stats/blob/main/output/languages.json)
+![Tech Stack](https://raw.githubusercontent.com/onirudda-islam/stats/main/output/stack.svg)
 
-<br/>
+[![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonirudda-islam%2Fstats%2Fmain%2Foutput%2Fstack.json&query=%24.generated_at&label=Last%20Scanned&color=a78bfa&style=flat-square)](https://github.com/onirudda-islam/stats/blob/main/output/stack.json)
+[![Repos Scanned](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonirudda-islam%2Fstats%2Fmain%2Foutput%2Fstack.json&query=%24.repo_count&label=Repos%20Scanned&color=7C3AED&style=flat-square)](https://github.com/onirudda-islam/stats)
+[![View Raw Data](https://img.shields.io/badge/View%20Raw%20Data-stack.json-30363d?style=flat-square&logo=github)](https://github.com/onirudda-islam/stats/blob/main/output/stack.json)
 
-**Proficiency breakdown:**
-
-| Language | Proficiency | Primary Domain |
-|---|---|---|
-| ![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white) | **Expert** | AI/ML, Backend, Scripting |
-| ![Go](https://img.shields.io/badge/Go-★★★★★-00ADD8?style=flat-square&logo=go&logoColor=white) | **Expert** | Distributed Systems, Microservices |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★★-3178C6?style=flat-square&logo=typescript&logoColor=white) | **Expert** | Full-Stack, APIs |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Expert** | Frontend, Node.js |
-| ![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | **Advanced** | Performance-Critical Systems |
-| ![Java](https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | **Advanced** | Enterprise, Backend |
-| ![Rust](https://img.shields.io/badge/Rust-★★★★☆-000000?style=flat-square&logo=rust&logoColor=white) | **Advanced** | Systems, WebAssembly |
-| ![SQL](https://img.shields.io/badge/SQL-★★★★★-4479A1?style=flat-square&logo=postgresql&logoColor=white) | **Expert** | Data Engineering, Analytics |
-| ![Bash/Shell](https://img.shields.io/badge/Bash-★★★★★-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | **Expert** | DevOps, Automation |
-| ![MATLAB](https://img.shields.io/badge/MATLAB-★★★★☆-0076A8?style=flat-square&logo=mathworks&logoColor=white) | **Advanced** | Physics Simulation, Numerical Methods |
-| ![LaTeX](https://img.shields.io/badge/LaTeX-★★★★★-008080?style=flat-square&logo=latex&logoColor=white) | **Expert** | Academic Papers, Documentation |
-| ![R](https://img.shields.io/badge/R-★★★☆☆-276DC3?style=flat-square&logo=r&logoColor=white) | **Proficient** | Statistical Analysis |
-| ![Scala](https://img.shields.io/badge/Scala-★★★☆☆-DC322F?style=flat-square&logo=scala&logoColor=white) | **Proficient** | Big Data, Spark |
-| ![Haskell](https://img.shields.io/badge/Haskell-★★★☆☆-5D4F85?style=flat-square&logo=haskell&logoColor=white) | **Proficient** | Functional Programming |
-| ![Julia](https://img.shields.io/badge/Julia-★★★☆☆-9558B2?style=flat-square&logo=julia&logoColor=white) | **Proficient** | Scientific Computing |
-
----
-
-### Cloud & Infrastructure
-
-| Technology | Proficiency | Notes |
-|---|---|---|
-| ![GCP](https://img.shields.io/badge/Google_Cloud-★★★★★-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | **Expert** | Ex-Google L5 SWE |
-| ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-★★★★★-F80000?style=flat-square&logo=oracle&logoColor=white) | **Expert** | Ex-Oracle IC-3 Cloud Eng |
-| ![AWS](https://img.shields.io/badge/AWS-★★★★☆-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | **Advanced** | Multi-cloud Architecture |
-| ![Azure](https://img.shields.io/badge/Azure-★★★★☆-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Advanced** | Enterprise Deployments |
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-★★★★★-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | **Expert** | Orchestration at Scale |
-| ![Terraform](https://img.shields.io/badge/Terraform-★★★★★-7B42BC?style=flat-square&logo=terraform&logoColor=white) | **Expert** | IaC, Multi-cloud |
-| ![Docker](https://img.shields.io/badge/Docker-★★★★★-2496ED?style=flat-square&logo=docker&logoColor=white) | **Expert** | Containerization |
-
----
-
-### AI / ML Stack
-
-| Technology | Proficiency |
-|---|---|
-| ![PyTorch](https://img.shields.io/badge/PyTorch-★★★★★-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | **Expert** |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | **Advanced** |
-| ![LangChain](https://img.shields.io/badge/LangChain-★★★★★-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | **Expert** |
-| ![HuggingFace](https://img.shields.io/badge/HuggingFace-★★★★★-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | **Expert** |
-| ![OpenAI API](https://img.shields.io/badge/OpenAI_API-★★★★★-412991?style=flat-square&logo=openai&logoColor=white) | **Expert** |
-| ![Vector DBs](https://img.shields.io/badge/Vector_DBs_(Pinecone%2FWeaviate%2FChroma)-★★★★★-FF4785?style=flat-square) | **Expert** |
-| ![Scikit-learn](https://img.shields.io/badge/scikit--learn-★★★★☆-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | **Advanced** |
+</div>
 
 ---
 
