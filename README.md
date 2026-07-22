@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-onirudda--islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onirudda-islam/)
 [![Silicornya](https://img.shields.io/badge/🏢_Silicornya_Ltd-CTO_&_Co--Founder-7C3AED?style=for-the-badge)](https://silicornya.com)
 [![MemeMates](https://img.shields.io/badge/😂_MemeMates-Co--Founder-F59E0B?style=for-the-badge)](https://mememates-website.web.app/)
-[![Calendly](https://img.shields.io/badge/📅_Book_a_Meeting-Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/cto-silicornya/30min)
+[![Calendly](https://img.shields.io/badge/📅_Book_a_Meeting-Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/acornya/30min)
 
 </div>
 
