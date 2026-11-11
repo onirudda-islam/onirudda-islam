@@ -207,10 +207,14 @@ focus:
 
 ---
 
-## 📡 Activity Graph
+## 🐍 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=onirudda-islam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7C3AED&point=f59e0b" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onirudda-islam/onirudda-islam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onirudda-islam/onirudda-islam/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/onirudda-islam/onirudda-islam/output/github-snake-dark.svg" width="100%" />
+</picture>
 </div>
 
 ---
