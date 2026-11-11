@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Dynamic Header with Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Onirudda%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Acornya%20Inc%20%7C%20Building%20ADEF&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Onirudda%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Acornya%20Ltd%20%7C%20Building%20ADEF&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+ADEF+%40+Acornya+Inc;AI+proposes.+You+approve.+Chronicle+proves.;Governed+Autonomy+for+Enterprise+Ops;CTO+%40+Silicornya+%7C+Founding+Advisor+%40+MemeMates;Ex-Google+L5+SWE+%7C+Ex-Oracle+IC-3+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+ADEF+%40+Acornya+Ltd;AI+proposes.+You+approve.+Chronicle+proves.;Governed+Autonomy+for+Enterprise+Ops;CTO+%40+Silicornya+%7C+Founding+Advisor+%40+MemeMates;Ex-Google+L5+SWE+%7C+Ex-Oracle+IC-3+Cloud" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 <!-- Social Badges Row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-onirudda--islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onirudda-islam/)
 [![X](https://img.shields.io/badge/X-@ONIRUDDA-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ONIRUDDA)
-[![Acornya](https://img.shields.io/badge/🌰_Acornya_Inc-Founder_·_ADEF-10B981?style=for-the-badge)](https://acornya.com)
+[![Acornya](https://img.shields.io/badge/🌰_Acornya_Ltd-Founder_·_ADEF-10B981?style=for-the-badge)](https://acornya.com)
 [![Silicornya](https://img.shields.io/badge/🏢_Silicornya_Ltd-CTO-7C3AED?style=for-the-badge)](https://silicornya.com)
 [![MemeMates](https://img.shields.io/badge/😂_MemeMates-Founding_Advisor-F59E0B?style=for-the-badge)](https://mememates-website.web.app/)
 [![Calendly](https://img.shields.io/badge/📅_Book_a_Meeting-Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/acornya/30min)
@@ -27,7 +27,7 @@
 ```yaml
 name:         Onirudda Islam
 current:
-  company:    Acornya Inc  (acornya.com)
+  company:    Acornya Ltd  (acornya.com)
   role:       Founder · CEO / CTO
   product:    ADEF — Autonomous Decision & Execution Fabric
 also:
@@ -162,7 +162,7 @@ focus:
 
 | 🎓 Education | 💼 Experience | 🚀 Ventures |
 |:---:|:---:|:---:|
-| MIT BSc — CS (6-3) + Physics (8) | **Google** — Software Engineer L5 | 🌰 **Acornya Inc** — Founder · CEO / CTO |
+| MIT BSc — CS (6-3) + Physics (8) | **Google** — Software Engineer L5 | 🌰 **Acornya Ltd** — Founder · CEO / CTO |
 | MIT MSc — Theoretical Particle & Nuclear Physics | **Oracle** — Cloud Engineer IC-3 | 🏢 **Silicornya Ltd** — CTO |
 | | | 😂 **MemeMates** — Founding Advisor |
 
@@ -177,7 +177,7 @@ focus:
 <table>
   <tr>
     <td align="center" width="34%">
-      <h3>🌰 Acornya Inc</h3>
+      <h3>🌰 Acornya Ltd</h3>
       <a href="https://acornya.com">
         <img src="https://img.shields.io/badge/acornya.com-Visit_Site-10B981?style=for-the-badge"/>
       </a>
