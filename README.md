@@ -1,19 +1,21 @@
 <div align="center">
 
 <!-- Dynamic Header with Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Onirudda%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Co-Founder%20%7C%20CTO%20%40%20Silicornya%20Ltd&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Onirudda%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20Acornya%20Ltd%20%7C%20Building%20ADEF&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+Persistent+Memory+Research;Context+Window+Problem+Solver;Ex-Google+L5+SWE+%7C+Ex-Oracle+IC-3+Cloud;MIT+CS+%26+Theoretical+Physics;Building+the+Future+%40+Silicornya" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+ADEF+%40+Acornya+Ltd;AI+proposes.+You+approve.+Chronicle+proves.;Governed+Autonomy+for+Enterprise+Ops;CTO+%40+Silicornya+%7C+Founding+Advisor+%40+MemeMates;Ex-Google+L5+SWE+%7C+Ex-Oracle+IC-3+Cloud" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges Row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-onirudda--islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onirudda-islam/)
-[![Silicornya](https://img.shields.io/badge/🏢_Silicornya_Ltd-CTO_&_Co--Founder-7C3AED?style=for-the-badge)](https://silicornya.com)
-[![MemeMates](https://img.shields.io/badge/😂_MemeMates-Co--Founder-F59E0B?style=for-the-badge)](https://mememates-website.web.app/)
+[![X](https://img.shields.io/badge/X-@ONIRUDDA-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ONIRUDDA)
+[![Acornya](https://img.shields.io/badge/🌰_Acornya_Ltd-Founder_·_ADEF-10B981?style=for-the-badge)](https://acornya.com)
+[![Silicornya](https://img.shields.io/badge/🏢_Silicornya_Ltd-CTO-7C3AED?style=for-the-badge)](https://silicornya.com)
+[![MemeMates](https://img.shields.io/badge/😂_MemeMates-Founding_Advisor-F59E0B?style=for-the-badge)](https://mememates-website.web.app/)
 [![Calendly](https://img.shields.io/badge/📅_Book_a_Meeting-Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/acornya/30min)
 
 </div>
@@ -24,10 +26,13 @@
 
 ```yaml
 name:         Onirudda Islam
-role:         Co-Founder & CTO
-companies:
-  - Silicornya Ltd  (silicornya.com)
-  - MemeMates        (mememates-website.web.app)
+current:
+  company:    Acornya Ltd  (acornya.com)
+  role:       Founder · CEO / CTO
+  product:    ADEF — Autonomous Decision & Execution Fabric
+also:
+  - Silicornya Ltd  — CTO              (silicornya.com)
+  - MemeMates       — Founding Advisor (mememates-website.web.app)
 
 education:
   - degree: BSc (Double Major)
@@ -45,36 +50,55 @@ experience:
   - company: Oracle
     title:   Cloud Engineer IC-3
 
-current_research:
-  - Persistent memory architectures for AI agents
-  - Solving the context window limitation problem
-  - Long-horizon memory retrieval in LLM-based systems
-
-all_repos:  🔒 Private (stealth mode)
+focus:
+  - Governed autonomy for enterprise infrastructure operations
+  - Human-in-the-loop AI decision systems
+  - Cryptographically verifiable audit trails
 ```
 
 ---
 
-## 🔬 Current Research Focus
+## 🌰 Building ADEF @ Acornya
+
+> **Operations at AI Speed. Governance at Human Standards.**
+> Not a chatbot. Not a runbook. A fabric that acts on your behalf — only after you say yes.
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│           🧠 AI PERSISTENT MEMORY SYSTEMS                   │
-│                                                             │
-│  Context Window ──► Memory Compression ──► Retrieval       │
-│       ↓                    ↓                   ↓           │
-│  Token Limits         Semantic Index      Agent Recall      │
-│                                                             │
-│  Goal: Enable agents to maintain unbounded context          │
-│        across sessions through intelligent memory mgmt      │
-└─────────────────────────────────────────────────────────────┘
+ Alert ─► Meridian ─► Nexus ─► Cortex ─► Prism ─► Sentinel ─► Aegis ─► Forge ─► Chronicle
+          ingest      control   AI        dry-run   policy      approve   execute   audit
+                                proposes  (twin)    (OPA)       (human)   +rollback (Blake3+Ed25519)
+
+                  From alert to verified resolution in ~60 seconds
 ```
 
 </div>
 
-**Active Problem:** LLMs are constrained by finite context windows, making long-horizon reasoning and persistent agent state a fundamental bottleneck. I'm exploring hybrid approaches combining vector memory stores, hierarchical summarization, and episodic recall to give agents true long-term memory.
+| Subsystem | Role | Stack |
+|:--|:--|:--|
+| **Nexus** | Control plane, Raft consensus | Rust |
+| **Cortex** | AI reasoning, LLM routing, risk-scored proposals | Python · Rust |
+| **Prism** | Digital-twin dry-run simulation | Rust · Python |
+| **Sentinel** | OPA/Rego fail-closed policy, Zero Trust | Rust · Go |
+| **Aegis** | Autonomy governor & approval gate (L0 → L4) | Rust |
+| **Forge** | Execution with rollback | Rust |
+| **Chronicle** | Append-only cryptographic ledger | Rust |
+| **Herald** | Kafka KRaft + QUIC event path | Rust |
+| **Meridian** | Adapter gateway (K8s, Terraform, ArgoCD, AWS/GCP/Azure…) | Go · Rust |
+| **Synapse** | Memory layer on Qdrant | Rust · Python |
+| **Atlas** | NOC dashboard | TypeScript |
+
+**Security & compliance:** mTLS + SPIFFE · Ed25519-signed approvals · FIPS 140-2 L3 HSM · built toward ISO 27001, SOC 2 Type II, FedRAMP, NIST 800-53.
+**Editions:** Ops (enterprise IT) · Vault (banking) · Grid (industrial/SCADA) · Citadel (government) · Sovereign (defense/air-gap).
+
+<div align="center">
+
+[![acornya.com](https://img.shields.io/badge/acornya.com-Visit_Site-10B981?style=for-the-badge)](https://acornya.com)
+[![ADEF Docs](https://img.shields.io/badge/ADEF-Docs-30363d?style=for-the-badge&logo=github)](https://github.com/Accornya-inc/adef)
+[![Hiring](https://img.shields.io/badge/We're_Hiring-Rust_·_AI%2FML_·_Go-F97316?style=for-the-badge)](https://acornya.com/careers/)
+
+</div>
 
 ---
 
@@ -138,34 +162,43 @@ all_repos:  🔒 Private (stealth mode)
 
 | 🎓 Education | 💼 Experience | 🚀 Ventures |
 |:---:|:---:|:---:|
-| MIT BSc — CS (6-3) + Physics (8) | **Google** — Software Engineer L5 | 🏢 **Silicornya Ltd** — CTO & Co-Founder |
-| MIT MSc — Theoretical Particle & Nuclear Physics | **Oracle** — Cloud Engineer IC-3 | 😂 **MemeMates** — Co-Founder |
+| MIT BSc — CS (6-3) + Physics (8) | **Google** — Software Engineer L5 | 🌰 **Acornya Ltd** — Founder · CEO / CTO |
+| MIT MSc — Theoretical Particle & Nuclear Physics | **Oracle** — Cloud Engineer IC-3 | 🏢 **Silicornya Ltd** — CTO |
+| | | 😂 **MemeMates** — Founding Advisor |
 
 </div>
 
 ---
 
-## 🚀 Companies I'm Building
+## 🚀 Where I Work
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="34%">
+      <h3>🌰 Acornya Ltd</h3>
+      <a href="https://acornya.com">
+        <img src="https://img.shields.io/badge/acornya.com-Visit_Site-10B981?style=for-the-badge"/>
+      </a>
+      <br/><br/>
+      <p><em>ADEF — enterprise autonomous operations. AI proposes, you approve, Chronicle proves.</em></p>
+    </td>
+    <td align="center" width="33%">
       <h3>🏢 Silicornya Ltd</h3>
       <a href="https://silicornya.com">
         <img src="https://img.shields.io/badge/silicornya.com-Visit_Site-7C3AED?style=for-the-badge"/>
       </a>
       <br/><br/>
-      <p><em>Technology company pushing boundaries in AI infrastructure and software engineering.</em></p>
+      <p><em>CTO — AI infrastructure and software engineering.</em></p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <h3>😂 MemeMates</h3>
       <a href="https://mememates-website.web.app/">
         <img src="https://img.shields.io/badge/mememates--website.web.app-Visit_Site-F59E0B?style=for-the-badge"/>
       </a>
       <br/><br/>
-      <p><em>Social platform connecting people through humor and meme culture.</em></p>
+      <p><em>Founding Advisor — social platform connecting people through humor.</em></p>
     </td>
   </tr>
 </table>
@@ -185,14 +218,14 @@ all_repos:  🔒 Private (stealth mode)
 ## 🧠 What I'm Thinking About
 
 ```
-📌 Persistent Memory in AI Agents
-   └─ How do we give agents genuine long-term memory beyond a context window?
-   └─ Hierarchical episodic memory + semantic compression
-   └─ Retrieval-Augmented Memory (RAM) as a first-class primitive
+📌 Governed Autonomy
+   └─ How far can AI act on production infra before a human must say yes?
+   └─ Graduated autonomy levels (L0 manual → L4 autonomous w/ CISO sign-off)
+   └─ Fail-closed policy as the default, not the exception
 
-📌 Physics-Informed ML
-   └─ Applying theoretical physics frameworks to neural architecture design
-   └─ Symmetry-aware models, gauge theory analogues in deep learning
+📌 Provable Operations
+   └─ Every action signed, hashed, and replayable
+   └─ Digital-twin dry-runs before anything touches prod
 
 📌 Multi-cloud Resilience Patterns
    └─ Lessons from Google & Oracle production systems
@@ -208,13 +241,15 @@ all_repos:  🔒 Private (stealth mode)
 | Channel | Link |
 |:---:|:---:|
 | 💼 LinkedIn | [linkedin.com/in/onirudda-islam](https://www.linkedin.com/in/onirudda-islam/) |
-| 🏢 Company | [silicornya.com](https://silicornya.com) |
-| 📅 Book a Meeting | [calendly.com/cto-silicornya/30min](https://calendly.com/cto-silicornya/30min) |
+| 🐦 X | [@ONIRUDDA](https://x.com/ONIRUDDA) |
+| 🌰 Acornya | [acornya.com](https://acornya.com) |
+| 🏢 Silicornya | [silicornya.com](https://silicornya.com) |
+| 📅 Book a Meeting | [calendly.com/acornya/30min](https://calendly.com/acornya/30min) |
 | 😂 MemeMates | [mememates-website.web.app](https://mememates-website.web.app/) |
 
 <br/>
 
-[![Book a 30-min call](https://img.shields.io/badge/📅_Schedule_30min_Call-Let's_Talk_AI_&_Tech-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/cto-silicornya/30min)
+[![Book a 30-min call](https://img.shields.io/badge/📅_Schedule_30min_Call-Let's_Talk_Autonomous_Ops-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/acornya/30min)
 
 </div>
 
@@ -223,7 +258,7 @@ all_repos:  🔒 Private (stealth mode)
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*"The limit of intelligence is not compute — it's memory."*
+*"Operations at AI speed. Governance at human standards."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=onirudda-islam&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
